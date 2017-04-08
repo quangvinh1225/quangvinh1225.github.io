@@ -1,0 +1,42 @@
+languageCode = "en-us"
+title = "Nguyen Quang Vinh"
+baseurl = "https://quangvinh1225.github.io/"
+theme = "aerial"
+
+[params]
+  name = "Nguyễn Quang Vinh"
+  about = "Technical Leader at iCare Benefits"
+  copyright = ""
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "v.ico"
+
+# [[params.social]]
+#   medium = "Twitter"
+#   icon = "twitter"
+#   link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/vinh.nguyenquang.142"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/vinh-nguyen-947985122/"
+
+[[params.social]]
+  medium = "Skype"
+  icon = "skype"
+  link = "skype:quangvinh68?chat"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/quangvinh1225"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:quangvinh1225@gmail.com"
