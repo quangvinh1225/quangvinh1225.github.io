@@ -1,11 +1,11 @@
 languageCode = "en-us"
 title = "Nguyen Quang Vinh"
-baseurl = "https://quangvinh1225.github.io/"
+baseurl = "https://vinh.name.vn/"
 theme = "aerial"
 
 [params]
   name = "Nguyễn Quang Vinh"
-  about = "Technical Leader at iCare Benefits"
+  about = "Technical Leader at EcoTruck"
   copyright = ""
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
