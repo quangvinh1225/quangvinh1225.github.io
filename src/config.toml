@@ -5,7 +5,7 @@ theme = "aerial"
 
 [params]
   name = "Nguyễn Quang Vinh"
-  about = "Technical Leader at EcoTruck"
+  about = "Technical Leader at Wareflex"
   copyright = ""
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
@@ -26,10 +26,10 @@ theme = "aerial"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/vinh-nguyen-947985122/"
 
-[[params.social]]
-  medium = "Skype"
-  icon = "skype"
-  link = "skype:quangvinh68?chat"
+#[[params.social]]
+#  medium = "Skype"
+#  icon = "skype"
+#  link = "skype:quangvinh68?chat"
 
 [[params.social]]
   medium = "Github"
